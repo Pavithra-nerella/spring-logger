@@ -1,0 +1,16 @@
+2023-05-25 23:18:38,883 INFO com.springlogger.SpringLoggingApplication [main] Starting SpringLoggingApplication using Java 17.0.7 on DESKTOP-DSV2HM6 with PID 14384 (C:\Users\HP\IdeaProjects\Spring-Logging\target\classes started by HP in C:\Users\HP\IdeaProjects\Spring-Logging)
+2023-05-25 23:18:38,892 DEBUG com.springlogger.SpringLoggingApplication [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-05-25 23:18:38,892 INFO com.springlogger.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-05-25 23:18:42,176 INFO com.springlogger.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.048 seconds (JVM running for 5.808)
+2023-05-25 23:18:47,698 ERROR com.springlogger.HomeController [http-nio-8080-exec-1] Logger Error
+2023-05-25 23:18:47,701 WARN com.springlogger.HomeController [http-nio-8080-exec-1] Logger Warn
+2023-05-25 23:18:47,702 INFO com.springlogger.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2023-05-25 23:18:47,702 DEBUG com.springlogger.HomeController [http-nio-8080-exec-1] Logger debug
+2023-05-25 23:36:16,794 INFO com.springlogger.SpringLoggingApplication [main] Starting SpringLoggingApplication using Java 17.0.7 on DESKTOP-DSV2HM6 with PID 2268 (C:\Users\HP\IdeaProjects\Spring-Logging\target\classes started by HP in C:\Users\HP\IdeaProjects\Spring-Logging)
+2023-05-25 23:36:16,804 DEBUG com.springlogger.SpringLoggingApplication [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-05-25 23:36:16,805 INFO com.springlogger.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-05-25 23:36:22,519 INFO com.springlogger.SpringLoggingApplication [main] Started SpringLoggingApplication in 6.617 seconds (JVM running for 7.865)
+2023-05-25 23:38:45,917 INFO com.springlogger.SpringLoggingApplication [main] Starting SpringLoggingApplication using Java 17.0.7 on DESKTOP-DSV2HM6 with PID 1940 (C:\Users\HP\IdeaProjects\Spring-Logging\target\classes started by HP in C:\Users\HP\IdeaProjects\Spring-Logging)
+2023-05-25 23:38:45,922 DEBUG com.springlogger.SpringLoggingApplication [main] Running with Spring Boot v2.6.3, Spring v5.3.15
+2023-05-25 23:38:45,923 INFO com.springlogger.SpringLoggingApplication [main] No active profile set, falling back to default profiles: default
+2023-05-25 23:38:48,647 INFO com.springlogger.SpringLoggingApplication [main] Started SpringLoggingApplication in 4.619 seconds (JVM running for 5.523)
