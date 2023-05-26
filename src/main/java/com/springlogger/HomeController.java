@@ -18,6 +18,6 @@ public class HomeController {
         logger.info("FATAL ERROR");
         logger.debug("Logger debug");
         logger.trace("Logger Trace");
-        return "Hello I'm learning logger!!";
+        return "Hello I'm learning logger!";
     }
 }
