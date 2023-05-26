@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     name: Build and analyze
-    runs-on: self-hosted
+    runs-on: bc-58
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v3
